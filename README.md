@@ -94,7 +94,7 @@ Settings → Edit Profile) uses plain `Navigator.push`.
 ## Completed Features
 
 - Splash → first-launch decision flow (`AuthGate`).
-- Onboarding (3 slides) with persisted completion flag (`shared_preferences`).
+- Onboarding with persisted completion flag (`shared_preferences`).
 - Email/password login & registration (Firebase Auth), with loading and inline error states.
 - Basic user profile stored in Firestore on sign-up (name, email, country, level).
 - Profile screen reads live Firestore data; Settings screen lets the user edit their display name.
