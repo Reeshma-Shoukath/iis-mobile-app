@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951454184803",
+    "project_id": "iisappmobile2026",
+    "storage_bucket": "iisappmobile2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951454184803:android:ebbc756c228acf8ff00f56",
+        "android_client_info": {
+          "package_name": "com.example.iis_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmUw43bESYESewEHzFcmVQeuB2AA-uBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
